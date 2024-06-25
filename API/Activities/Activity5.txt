@@ -1,0 +1,30 @@
+<Response xmlns="http://ipwhois.app/json/">
+   <ip>130.47.210.226</ip>
+   <success>true</success>
+   <type>IPv4</type>
+   <continent>North America</continent>
+   <continent_code>NA</continent_code>
+   <country>United States</country>
+   <country_code>US</country_code>
+   <country_flag>https://cdn.ipwhois.io/flags/us.svg</country_flag>
+   <country_capital>Washington D.C.</country_capital>
+   <country_phone>+1</country_phone>
+   <country_neighbours>CA,MX</country_neighbours>
+   <region>Wisconsin</region>
+   <city>Madison</city>
+   <latitude>43.0730517</latitude>
+   <longitude>-89.4012302</longitude>
+   <asn>AS3136</asn>
+   <org>Wisconsin Department of Transportation</org>
+   <isp>State of Wi Dept. of Administration</isp>
+   <timezone>America/Chicago</timezone>
+   <timezone_name>CDT</timezone_name>
+   <timezone_dstOffset>3600</timezone_dstOffset>
+   <timezone_gmtOffset>-18000</timezone_gmtOffset>
+   <timezone_gmt>-05:00</timezone_gmt>
+   <currency>US Dollar</currency>
+   <currency_code>USD</currency_code>
+   <currency_symbol>$</currency_symbol>
+   <currency_rates>1</currency_rates>
+   <currency_plural>US dollars</currency_plural>
+</Response>

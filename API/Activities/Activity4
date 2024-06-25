@@ -1,0 +1,30 @@
+<Response xmlns="http://ipwhois.app/json/">
+   <ip>103.89.235.106</ip>
+   <success>true</success>
+   <type>IPv4</type>
+   <continent>Asia</continent>
+   <continent_code>AS</continent_code>
+   <country>India</country>
+   <country_code>IN</country_code>
+   <country_flag>https://cdn.ipwhois.io/flags/in.svg</country_flag>
+   <country_capital>New Delhi</country_capital>
+   <country_phone>+91</country_phone>
+   <country_neighbours>BD,BT,CN,MM,NP,PK</country_neighbours>
+   <region>Karnataka</region>
+   <city>Mangaluru</city>
+   <latitude>12.9141417</latitude>
+   <longitude>74.8559568</longitude>
+   <asn>AS136308</asn>
+   <org>Deenet Services Pvt LTD</org>
+   <isp>Deenet Services Pvt LTD</isp>
+   <timezone>Asia/Calcutta</timezone>
+   <timezone_name>IST</timezone_name>
+   <timezone_dstOffset>0</timezone_dstOffset>
+   <timezone_gmtOffset>19800</timezone_gmtOffset>
+   <timezone_gmt>+05:30</timezone_gmt>
+   <currency>Indian Rupee</currency>
+   <currency_code>INR</currency_code>
+   <currency_symbol>₹</currency_symbol>
+   <currency_rates>83.424</currency_rates>
+   <currency_plural>Indian rupees</currency_plural>
+</Response>
