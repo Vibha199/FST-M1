@@ -1,11 +1,10 @@
-@SmokeTest
-@activity5
-Feature: Data driven test with Data Table
+@activity6
+Feature: DataTable
 
-Scenario: Testing with Data from Data Table
-Given User is on Login page
-When User enters Usernames and Password
-      | usernames | password |
-        | admin     | password |
-Then Read the page title and confirmation message
-And Close the Browser
+  Scenario: Testing the To-Do app
+    Given user is on ToDo list page
+    When User enters the following tasks
+      | task1 |
+      | task2 |
+      | task3 |
+    Then tasks are added
